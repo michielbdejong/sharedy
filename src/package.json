@@ -1,0 +1,10 @@
+{
+  "author": "Sebastian Kippe",
+  "name": "Sharedy",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "shelljs": "0.0.x"
+  }
+}
